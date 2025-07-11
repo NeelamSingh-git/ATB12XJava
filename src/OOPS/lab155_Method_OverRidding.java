@@ -1,4 +1,4 @@
-package OOPS.Polymorphism;
+package OOPS;
 
 public class lab155_Method_OverRidding {
     public static void main(String[] args) {

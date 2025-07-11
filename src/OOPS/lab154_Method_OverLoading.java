@@ -1,4 +1,4 @@
-package OOPS.Polymorphism;
+package OOPS;
 
 public class lab154_Method_OverLoading {
     public static void main(String[] args) {

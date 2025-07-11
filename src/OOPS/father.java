@@ -1,4 +1,4 @@
-package OOPS.Polymorphism;
+package OOPS;
 
 public class father {
     void home(){
